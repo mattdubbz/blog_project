@@ -31,7 +31,7 @@ header {
     margin: 0.5rem 0;
 }
 
-.post-entry h2 a, .post-entryh2 a:visited {
+.post-entry h2 a, .post-entry h2 a:visited {
     color: blue;
     text-decoration: none;
 }
